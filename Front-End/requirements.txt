@@ -1,0 +1,6 @@
+bootstrap
+@popperjs/core
+bootstrap-icons
+@vuelidate/core
+@vuelidate/validators
+gsap

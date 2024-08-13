@@ -1,0 +1,7 @@
+dotenv
+express
+jsonwebtoken
+bcrypt
+mongoose
+cors
+nodemon
